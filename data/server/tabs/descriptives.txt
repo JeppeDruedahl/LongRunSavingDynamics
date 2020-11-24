@@ -1,0 +1,31 @@
+Permanent income, 1000 DKK	& 207.628     & 202.391     & 205.363      \\
+[.5em]
+Net worth, normalized	& 0.250     & 0.195     & 0.636      \\
+[.5em]
+$\quad-$ Liquid assets, normalized	& 0.229     & 0.216     & 0.304      \\
+[.5em]
+$\quad-$ Uncollateralized debts, normalized	& 0.596     & 0.585     & 0.515      \\
+[.5em]
+$\quad-$ Financial investments, normalized	& 0.061     & 0.056     & 0.095      \\
+[.5em]
+$\quad-$ Housing equity, normalized	& 0.556     & 0.508     & 0.752      \\
+[.5em]
+$\qquad-$ Housing value, normalized	& 1.895     & 1.776     & 2.166      \\
+[.5em]
+$\qquad-$ Mortgage, normalized	& 1.339     & 1.268     & 1.414      \\
+[.5em]
+$\qquad-$ Home owner	& 0.507     & 0.501     & 0.571      \\
+[.5em]
+$\qquad-$ Owner of 2+ units	& 0.051     & 0.046     & 0.058      \\
+[.5em]
+Disposable income, 1000 DKK	& 212.878     & 207.583     & 210.379      \\
+[.5em]
+Married	& 0.467     & 0.462     & 0.518      \\
+[.5em]
+Year of inheritance	& 2003.669     & 2002.641     & 2002.609      \\
+[.5em]
+Age at inheritance	& 39.890     & 39.307     & 40.615      \\
+[.5em]
+Parental age at death	& 70.994     & 70.639     & 74.022      \\
+	\midrule
+\# individuals	&   223355     &    21750     &     6286      \\

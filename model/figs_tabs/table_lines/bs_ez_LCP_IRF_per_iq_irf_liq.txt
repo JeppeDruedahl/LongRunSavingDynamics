@@ -1,0 +1,1 @@
+0.935\textsuperscript{\dag} & 4.00 & 0.67 & 1.61\textsuperscript{\dag} & 0.009\textsuperscript{\ddag} & 0.156 & 0.030\textsuperscript{\ddag} & - & 0.11 \\
